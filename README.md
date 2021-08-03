@@ -1,5 +1,5 @@
 # JEE Demos
-This repo includes JEE demos for Servlets, JSPs, JSFs, JAX-RS and EJBs.
+This repository includes JEE demos for Servlets, JSPs, JSFs, JAX-RS and EJBs.
 
 ## Recommendations and Dev Choices
 * **IDE:** Opensource `Eclipse IDE` for JEE is recommended
