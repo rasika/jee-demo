@@ -2,9 +2,9 @@
 This repo includes JEE demos for Servlets, JSPs, JSFs, JAX-RS and EJBs.
 
 ## Recommendations and Dev Choices
-1. **IDE:** Eclipse IDE for JEE is recommended
-2. **JDK:** Open JDK 1.8 (not JRE) to use JavaEE/JakartaEE 8 recommended
-3. **JEE Server:** Glassfish v5.1 supporting JavaEE/JakartaEE 8 recommended
+* **IDE:** Eclipse IDE for JEE is recommended
+* **JDK:** Open JDK 1.8 (not JRE) to use JavaEE/JakartaEE 8 recommended
+* **JEE Server:** Glassfish v5.1 supporting JavaEE/JakartaEE 8 recommended
 
 ## Setting Up Development Environment
 
@@ -45,16 +45,16 @@ Then from the collapsible tree-structure; select correct project(eg. demo1), exp
 ## Deploy and Run JEE Application in Glassfish Server
 These steps assume that you have already configured server instance in Eclipse IDE as explained [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpGlassFish.md).
 
-Right Click on `Server` instance we created. Then select `Add and Remove...`. 
+1. Right Click on `Server` instance we created. Then select `Add and Remove...`. 
 
 ![Servers Tab](https://github.com/rasika/jee-demo/raw/master/docs/images/servers-tab.png)
 
-From the window; for example if you want to add `demo1` into JEE server; select `demo1` first and click `Add` button this will results `demo1` appear in the list of right side.
+2. From the window; for example if you want to add `demo1` into JEE server; select `demo1` first and click `Add` button this will results `demo1` appear in the list of right side.
 
 ![Add Artifacts](https://github.com/rasika/jee-demo/raw/master/docs/images/add-artifacts.png)
 
-Start the server by right click and selecting `Start`.
+3. Start the server by right click and selecting `Start`.
 
 ![Run Server](https://github.com/rasika/jee-demo/raw/master/docs/images/run-server.png)
 
-Whenever doing changes, you can execute `clean build` gradle tasks(if required) then right click on the server and click `Publish` to publish the changes.
+4. Whenever doing changes, you can execute `clean build` gradle tasks(if required) then right click on the server and click `Publish` to publish the changes.
