@@ -33,18 +33,19 @@ cd demo1
 ```
 
 ### Running Gradle Tasks from Eclipse IDE
-1. From the menu click on `Window -> Show View -> Other`. From the window, search for 'Gradle', select both Tasks and Executions then click open. 
-2. Resulting Window can be dragged into any place wherever fits for you.
-3. Goto `Window -> Preferences`; Select Gradle and enter JDK1.8 path into your Gradle `Java Home` path.
-4. Then from the tree hierarchy; select correct project(eg. demo1), expand `build` item, 
+Below steps assume that you have already configured `Gradle Tasks` view in Eclipse IDE as explained [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpEclipseIDEViews.md)
+
+1. Goto `Window -> Preferences`; Select Gradle and enter JDK1.8 path into your Gradle `Java Home` path.
+2. Then from the tree hierarchy; select correct project(eg. demo1), expand `build` item, 
    - Click on `clean` to run cleaning task, 
    - Click on `build` to run build task
-5. NOTE: Whenever you are doing changes to the gradle file; make sure to right-click on the project and `Gradle -> Refresh Gradle Project`
+
+**NOTE:** Whenever you are doing changes to the gradle file; make sure to right-click on the project and `Gradle -> Refresh Gradle Project`
 
 ![Gradle Task](https://github.com/rasika/jee-demo/raw/master/docs/images/gradle-task.png)
 
 ## Deploy and Run JEE Application in Glassfish Server
-These steps assume that you have already configured server instance in Eclipse IDE as explained [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpGlassFish.md).
+Below steps assume that you have already configured server instance in Eclipse IDE as explained [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpGlassFish.md).
 
 1. Right Click on `Server` instance we created. Then select `Add and Remove...`. 
 
