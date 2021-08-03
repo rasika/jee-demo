@@ -2,9 +2,9 @@
 This repo includes JEE demos for Servlets, JSPs, JSFs, JAX-RS and EJBs.
 
 ## Recommendations and Dev Choices
-* **IDE:** Eclipse IDE for JEE is recommended
-* **JDK:** Open JDK 1.8 (not JRE) to use JavaEE/JakartaEE 8 recommended
-* **JEE Server:** Glassfish v5.1 supporting JavaEE/JakartaEE 8 recommended
+* **IDE:** Opensource `Eclipse IDE` for JEE is recommended
+* **JDK:** Open JDK 1.8 (not JRE) to use `JavaEE/JakartaEE 8` recommended
+* **JEE Server:** Glassfish v5.1 supporting `JavaEE/JakartaEE 8` recommended
 
 ## Setting Up Development Environment
 
