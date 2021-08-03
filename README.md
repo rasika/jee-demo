@@ -51,7 +51,7 @@ Right Click on `Server` instance we created. Then select `Add and Remove...`.
 
 From the window; for example if you want to add `demo1` into JEE server; select `demo1` first and click `Add` button this will results `demo1` appear in the list of right side.
 
-![Add Artifacts](https://github.com/rasika/jee-demo/raw/master/docs/images/add-artifact.png)
+![Add Artifacts](https://github.com/rasika/jee-demo/raw/master/docs/images/add-artifacts.png)
 
 Start the server by right click and selecting `Start`.
 
