@@ -7,8 +7,8 @@
 
 ![Adding New Glasshfish Server in Eclipse](https://github.com/rasika/jee-demo/raw/master/docs/images/add-new-server.png)
 
-6. Upon Next on the Window, provide glassfish extracted directory path and JDK1.8 path as below;
+5. Upon Next on the Window, provide glassfish extracted directory path and JDK1.8 path as below;
 
 ![Adding New Glasshfish Server in Eclipse](https://github.com/rasika/jee-demo/raw/master/docs/images/new-glassfish-server2.png)
 
-7. Then You can proceed Next and since we are setting up our deployable artifacts later, just click on Finish.
+6. Then You can proceed Next and since we are setting up our deployable artifacts later, just click on Finish.
