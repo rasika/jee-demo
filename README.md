@@ -14,7 +14,7 @@ This repo includes JEE demos for Servlets, JSPs, JSFs, JAX-RS and EJBs.
 4. Download and install OpenJDK 1.8 (if not available) from [here](https://openjdk.java.net/install/)
 
 ## Building the Source Code
-Each demo1,...demo5 folders are considered separate JEE projects for the IDE. 
+Each `demo1,...demo5` folders are considered separate JEE projects for the IDE. 
 ### Running Gradle Tasks through Terminal
 You can simply navigate into the demoN folder and execute the following;
 
