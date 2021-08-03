@@ -8,10 +8,10 @@ This repo includes JEE demos for Servlets, JSPs, JSFs, JAX-RS and EJBs.
 
 ## Setting Up Development Environment
 
-1. Make sure you downloaded Eclipse IDE for JEE Development [here](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers)
+1. Make sure you downloaded `Eclipse IDE for JEE Development` from [here](https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers)
 2. Please refer [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpEclipseIDEViews.md) to setup Eclipse IDE
-3. Please refer [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpGlassFish.md) to setup a new GlassFish server instance in Eclipse IDE
-4. Download and install OpenJDK 1.8 (if not available) from [here](https://openjdk.java.net/install/)
+3. Please refer [here](https://github.com/rasika/jee-demo/blob/master/docs/SettingUpGlassFish.md) to setup a new `GlassFish Server` instance in Eclipse IDE
+4. Download and install `OpenJDK 1.8` (if not available) from [here](https://openjdk.java.net/install/)
 
 ## Building the Source Code
 Each `demo1,...demo5` folders are considered separate JEE projects for the IDE. 
