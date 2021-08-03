@@ -1,9 +1,9 @@
 ### Setting Up Glassfish 5.1 Server in Eclipse
 
-1. Open Eclipse JavaEE IDE and please refer https://download.eclipse.org/glassfish-tools/1.0.1/repository/ to install Glassfish Tools into Eclipse IDE
+1. Open Eclipse JavaEE IDE and please refer [here](https://download.eclipse.org/glassfish-tools/1.0.1/repository/) to install Glassfish Tools into Eclipse IDE
 2. Restart the Eclipse IDE
 3. Download and extract [Glassfish v5.1.0](https://www.eclipse.org/downloads/download.php?file=/glassfish/glassfish-5.1.0.zip)
-4. Click on `Add new server...` in servers tab
+4. Click on `Create a new server...` in servers tab
 
 ![Adding New Glasshfish Server in Eclipse](https://github.com/rasika/jee-demo/raw/master/docs/images/add-new-server.png)
 
