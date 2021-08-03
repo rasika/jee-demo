@@ -4,7 +4,7 @@
 2. Use `File -> Import` to import individual projects `demo1...demo5` into your workspace. 
    - Select `Existing Gradle Project` to import
 
-![Existing Gradle Project](https://github.com/rasika/jee-demo/raw/master/docs/images/gradle-proj.png)
+![Existing Gradle Project](https://github.com/rasika/jee-demo/raw/master/docs/images/grdale-proj.png)
 
 3. Make sure you are in JEE Perspective (its in top-right corner of the IDE window)
 
