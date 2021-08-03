@@ -33,10 +33,10 @@ cd demo1
 ```
 
 ### Running Gradle Tasks from Eclipse IDE
-From the menu click on `Window -> Show View -> Other`. From the window, search for 'Gradle Tasks' and click open.
-Resulting Window can be dragged into any place wherever fits for you.
-
-Then from the collapsible tree-structure; select correct project(eg. demo1), expand `build` item, 
+1. From the menu click on `Window -> Show View -> Other`. From the window, search for 'Gradle', select both Tasks and Executions then click open. 
+2. Resulting Window can be dragged into any place wherever fits for you.
+3. Goto `Window -> Preferences`; Select Gradle and enter JDK1.8 path into your Gradle `Java Home` path.
+4. Then from the tree hierarchy; select correct project(eg. demo1), expand `build` item, 
 - Click on `clean` to run cleaning task, 
 - Click on `build` to run build task
 
