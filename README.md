@@ -37,8 +37,9 @@ cd demo1
 2. Resulting Window can be dragged into any place wherever fits for you.
 3. Goto `Window -> Preferences`; Select Gradle and enter JDK1.8 path into your Gradle `Java Home` path.
 4. Then from the tree hierarchy; select correct project(eg. demo1), expand `build` item, 
-- Click on `clean` to run cleaning task, 
-- Click on `build` to run build task
+   - Click on `clean` to run cleaning task, 
+   - Click on `build` to run build task
+5. NOTE: Whenever you are doing changes to the gradle file; make sure to right-click on the project and `Gradle -> Refresh Gradle Project`
 
 ![Gradle Task](https://github.com/rasika/jee-demo/raw/master/docs/images/gradle-task.png)
 
