@@ -12,3 +12,8 @@
 ![Adding New Glasshfish Server in Eclipse](https://github.com/rasika/jee-demo/raw/master/docs/images/new-glassfish-server2.png)
 
 6. Then You can proceed Next and since we are setting up our deployable artifacts later, just click on Finish.
+
+#### Setting Up Glassfish Server Debug
+There's a known issue in Glassfish Eclipse Plugin. You need to add following JVM arguments in Run -> `Debug Configurations`
+![debug-args](https://user-images.githubusercontent.com/1448489/128669907-b1544401-15e2-437f-9427-a04f51b1cbac.png)
+
